@@ -1,31 +1,31 @@
 {
-    "name": "Ijt Jbtrokn Mnhgdvqjb Rgjsseg Ickj",
-    "description": "自",
-    "version": "commodo Ut nisi nulla",
-    "author": "丁勇",
-    "variables": [
-        {
-            "name": "oeegp",
-            "default_value": "gflpnemknn"
-        }
-    ],
-    "keywords": [
-        "in exercitation"
-    ],
-    "categories": [
-        "in culpa"
-    ],
-    "tags": [
-        "laboris ut Lorem proident velit"
-    ],
+    "name": "AVGEngine 开发测试",
+    "description": "A test story",
+    "version": "0.0.1",
+    "author": "XYCode and the others",
+    "variables": [],
+    "keywords": [],
+    "categories": [],
+    "tags": [],
     "sections": [
         {
-            "name": "军按适意角",
-            "summary": "品",
-            "description": "名民我是又维义想华安十温成研表教。代和以影设积厂油局太低两与却完断信。老龙很商变建性华与很九教关原。老那无参接消周总算及时保志。他取无或低音大意了里员标参很。"
+            "name": "饿殍",
+            "summary": "结局-饿殍",
+            "description": "游戏 明末：饿殍千里行 的结局。搬运了部分素材和台词用于测试",
+            "conversations": [
+                {
+                    "speaker": "满穗",
+                    "speaker_img": "Story/Section-01/ManSui-Normal",
+                    "background_img": "Story/Section-01/BG",
+                    "content": "你说得对，但是 明末：饿殍千里行 是一款基于历史事件改编的模拟经营游戏。在游戏中，玩家将扮演一位明朝末年的普通农民，面对饥荒、战乱、瘟疫等困境，努力生存并寻找出路。游戏将真实还原明朝末年的社会环境，玩家需要通过经营自己的农场、发展贸易、结交盟友等方式，在乱世中生存并改变自己的命运。游戏将提供多种结局，包括饿殍、流民、起义等，玩家可以根据自己的选择来决定游戏的结局。"
+                },
+                {
+                    "speaker": "",
+                    "speaker_img": "Story/Section-01/ManSui-Normal",
+                    "background_img": "Story/Section-01/BG",
+                    "content": "完"
+                }
+            ]
         }
-    ],
-    "menu": {
-        "background": "Images/MainMenu/BackgroundImage"
-    }
+    ]
 }

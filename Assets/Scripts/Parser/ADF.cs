@@ -1,3 +1,5 @@
+using UnityEngine;
+
 public class Variable
 {
     public string name { get; set; }
@@ -8,9 +10,19 @@ public class Conversation
 {
     public string cond { get; set; }
     public string speaker { get; set; }
-    public string speaker_img { get; set; }
-    public string background_img { get; set; }
+    public string speaker_img { get; set; } = null;
+    public string background_img { get; set; } = null;
     public string content { get; set; }
+
+    public Sprite GetSpeakerImage()
+    {
+        return Resources.Load<Sprite>(speaker_img);
+    }
+
+    public Sprite GetBackgroundImage()
+    {
+        return Resources.Load<Sprite>(background_img);
+    }
 }
 
 public class Section
