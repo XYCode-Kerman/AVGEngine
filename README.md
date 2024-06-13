@@ -124,3 +124,7 @@ See [LICENSE](LICENSE) for more information.
 > **[?]**
 > If your work was funded by any organization or institution, acknowledge their support here.
 > In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
+
+本项目开发过程中使用的部分素材来自游戏《饿殍：明末千里行》，其最终版权归属于零创游戏，如有版权问题，请联系本仓库所有者进行删除。
+
+切勿在您的实际游戏中包含这些素材文件。
